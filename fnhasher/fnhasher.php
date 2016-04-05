@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Filename Hasher
-Description: Prevents duplicate uploaded filenames by replacing it with a UUIDv4 filename.
+Description: Prevents duplicate uploaded filenames by replacing it with a UUIDv4 MD5 hashed filename.
 Version: 0.1.7
 Author: Taek
 Author URI: https://taek.us/
