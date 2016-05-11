@@ -6,3 +6,8 @@ This small Wordpress plugin was made so that you can upload files with the same 
 How To Install:<br />
 - Upload to /*/wp-content/fnhasher
 - Activate
+
+IRC Support:<br />
+- Server: irc.CrystalNET.org [IPv4 | IPv6]
+- Port: [Regular 6667] [SSL: 6669]
+- Channel: #Lobby
