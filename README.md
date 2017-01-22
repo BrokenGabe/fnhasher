@@ -8,6 +8,6 @@ How To Install:<br />
 - Activate
 
 IRC Support:<br />
-- Server: irc.CrystalNET.org [IPv4 | IPv6]
-- Port: [Regular 6667] [SSL: 6669]
-- Channel: #Lobby
+- Server: irc.spotchat.org [IPv4 | IPv6]
+- Port: [Regular 6667] [SSL: 6697]
+- Channel: #MissingTech
